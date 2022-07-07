@@ -1,5 +1,9 @@
 
 # npm package cache
 node_modules
-.env
+
+# jetbrains project config
 .idea
+
+# output of 'npm pack'
+*.tgz
