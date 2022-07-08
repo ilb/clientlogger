@@ -1,6 +1,6 @@
 {
-  "name": "@ilb/clientlogger",
-  "version": "1.0.7",
+  "name": "@ssortia/clientlogger",
+  "version": "1.0.8",
   "description": "logging client errors",
   "main": "src/index.js",
   "type": "module",
