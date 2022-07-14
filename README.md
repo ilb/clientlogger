@@ -1,6 +1,11 @@
 # Client logger
 Отправка ошибок клиента на почту
 
+## Install
+```
+npm i @ssortia/clientlogger
+```
+
 ## Usage
 
 ### Env
