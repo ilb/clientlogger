@@ -3,7 +3,7 @@
 
 ## Install
 ```
-npm i @ssortia/clientlogger
+npm i @ilb/clientlogger
 ```
 
 ## Usage
